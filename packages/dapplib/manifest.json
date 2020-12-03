@@ -1,0 +1,14 @@
+{
+    "name": "test_dapper",
+    "blocks": {
+        "/blockchains/ethereum": true,
+        "/languages/solidity": true,
+        "/categories/asset_value_tracking": true,
+        "/categories/asset_value_tracking/token": true,
+        "/categories/asset_value_tracking/token/name": "WHEN",
+        "/categories/asset_value_tracking/token/symbol": "WHN",
+        "/categories/asset_value_tracking/token/decimals": "18",
+        "/categories/asset_value_tracking/token/supply": "1000",
+        "/frameworks/vanilla": true
+    }
+}
